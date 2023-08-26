@@ -1,7 +1,7 @@
 import XCTest
-@testable import llama_cpp_swift
+@testable import Llama
 
-final class llama_cpp_swiftTests: XCTestCase {
+final class LlamaTests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation
         // https://developer.apple.com/documentation/xctest
